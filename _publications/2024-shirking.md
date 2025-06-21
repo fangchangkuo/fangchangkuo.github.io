@@ -3,8 +3,8 @@ title: "Shirking with good reputation? Evidence from hotel industry"
 collection: publications
 permalink: /publication/2024-shirking
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2024-12
+venue: 'International Journal of Industrial Organization'
 paperurl: 'https://doi.org/10.1016/j.ijindorg.2024.103088'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
